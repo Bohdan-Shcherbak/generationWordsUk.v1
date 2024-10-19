@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "i18next": "^23.12.2",
-    "node-fetch": "^3.3.2"
+    "i18next": "^23.12.2"
   }
 }
